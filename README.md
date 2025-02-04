@@ -1,29 +1,37 @@
 # Spotify-UI-Clone
 
-🎵 Spotify Web Player Clone
+🎵 <b>Spotify Web Player Clone</b>
 
-📌 Overview
+📌 <b>Overview</b>
 
 This project is a Spotify Web Player Clone that replicates the user interface of the Spotify web app. It allows users to browse music, explore trending songs, and interact with a music player. The project is built using HTML, CSS, and FontAwesome icons.
 
-🛠️ Tech Stack
+🛠️ <b>Tech Stack</b>
+<ul>
+  <li>HTML - Structure of the web page</li>
+  <li>CSS - Styling and layout</li>
+  <li>FontAwesome - Icons for navigation and controls</li>
+</ul>
 
-HTML - Structure of the web page
+✨ <b>Features<b>
+<ul>
+  <li>🎶 Spotify-inspired UI with sidebar, main content, and music player</li>
+  <li>🔍 Search and Library options for a familiar navigation experience</li>
+  <li>📌 Trending & Featured Charts sections displaying song recommendations</li>
+  <li>🎛 Music Player UI with play, pause, forward, and volume controls</li>
+  <li>🌙 Responsive Design for a seamless experience on different screen sizes</li>
+</ul>
 
-CSS - Styling and layout
+📂 <b>Project Structure</b>
 
-FontAwesome - Icons for navigation and controls
+  📁 Spotify-Web-Clone
+  │── 📄 index.html  (Main webpage structure)
+  │── 📄 style.css   (Styling and layout)
+  │── 📂 Assets      (Icons & images used in the project)
 
-✨ Features
-
-🎶 Spotify-inspired UI with sidebar, main content, and music player
-
-🔍 Search and Library options for a familiar navigation experience
-
-📌 Trending & Featured Charts sections displaying song recommendations
-
-🎛 Music Player UI with play, pause, forward, and volume controls
-
-🌙 Responsive Design for a seamless experience on different screen sizes
-
-📂 Project Structure
+🌟 <b>Future Enhancements</b>
+<ul>
+  <li>🎧 Add JavaScript functionality for music playback</li>
+  <li>📱 Improve mobile responsiveness</li>
+  <li>🌍 Implement API integration for real-time music streaming</li>
+</ul>
