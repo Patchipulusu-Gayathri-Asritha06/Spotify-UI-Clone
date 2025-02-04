@@ -13,7 +13,7 @@ This project is a Spotify Web Player Clone that replicates the user interface of
   <li>FontAwesome - Icons for navigation and controls</li>
 </ul>
 
-✨ <b>Features<b>
+✨ <b>Features</b>
 <ul>
   <li>🎶 Spotify-inspired UI with sidebar, main content, and music player</li>
   <li>🔍 Search and Library options for a familiar navigation experience</li>
@@ -24,10 +24,10 @@ This project is a Spotify Web Player Clone that replicates the user interface of
 
 📂 <b>Project Structure</b>
 
-  📁 Spotify-Web-Clone
-  │── 📄 index.html  (Main webpage structure)
-  │── 📄 style.css   (Styling and layout)
-  │── 📂 Assets      (Icons & images used in the project)
+  📁 Spotify-Web-Clone<br>
+  │── 📄 index.html  (Main webpage structure)<br>
+  │── 📄 style.css   (Styling and layout)<br>
+  │── 📂 Assets      (Icons & images used in the project)<br>
 
 🌟 <b>Future Enhancements</b>
 <ul>
